@@ -3,23 +3,33 @@ This repository contains sources for various materials concerning diffusion mode
 
 ## Contents
 - [Articles](#articles)
+  - [Introductions and tutorials](#introductions-and-tutorials)
+  - [Surveys](#surveys)
+  - [Core papers](#core-papers)
+  - [Diffusion models and SDEs](#diffusion-models-and-SDEs)
+  - [Diffusion models and Flows](#diffusion-models-and-Flows)
 - [Videos](#videos)
 - [Blog posts](#blog-posts)
 - [Courses](#courses)
 - [Libraries](#libraries)
 
 ## Articles
-- [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)
-- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
-- [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+
+### Introductions and tutorials
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
-- [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
 - [Score-based Diffusion Models via Stochastic Differential Equations -- a Technical Tutorial](https://arxiv.org/abs/2402.07487)
-- [ItôWave: Itô Stochastic Differential Equation Is All You Need For Wave Generation](https://arxiv.org/abs/2201.12519)
+### Surveys
+- [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
 - [An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization](https://arxiv.org/abs/2404.07771)
-- [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
 - [On the Design Fundamentals of Diffusion Models: A Survey](https://arxiv.org/abs/2306.04542 )
 - [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364 )
+### Core papers
+- [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
+### Diffusion models and SDEs
+- [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+- [ItôWave: Itô Stochastic Differential Equation Is All You Need For Wave Generation](https://arxiv.org/abs/2201.12519)
+### Diffusion models and Flows
 - [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions](https://arxiv.org/abs/2303.08797 )
 
 ## Videos
